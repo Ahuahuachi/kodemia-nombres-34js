@@ -1,3 +1,5 @@
 # kodemia-nombres-34js
 
-# GerardoGarduño
+1. Alfredo Altamirano (Ahuahuachi)
+2. Arisbeth Martínez (Arisbeth1409)
+
