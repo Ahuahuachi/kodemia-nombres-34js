@@ -2,4 +2,5 @@
 
 1. Alfredo Altamirano (Ahuahuachi)
 2. Arisbeth Martínez (Arisbeth1409)
-3. Angel Lopez (angellopez1214)
+3. Arturo Juarez (arturo25081998)
+4. Angel LOPEZ (angellopez1214)
