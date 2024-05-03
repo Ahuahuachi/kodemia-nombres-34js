@@ -3,4 +3,5 @@
 1. Alfredo Altamirano (Ahuahuachi)
 2. Arisbeth Martínez (Arisbeth1409)
 3. Arturo Juarez (arturo25081998)
-4. Adan Lugo (ElderL99) 
+4. Daniel Mateos (danielmateos14)
+5. Adan Lugo (ElderL99)
