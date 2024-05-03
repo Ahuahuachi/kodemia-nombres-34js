@@ -1,2 +1,2 @@
 # kodemia-nombres-34js
-7. Javier Galvez (javigalci2) 
+8. Javier Galvez (javigalci2)
