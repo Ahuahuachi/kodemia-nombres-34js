@@ -7,4 +7,6 @@
 5. Adan Lugo (ElderL99)
 6. Laura Valle (adlau019)
 7. Brenda Pedraza (Brenda1198)
-8. Gerardo Mendez Resendiz (SirCaden)
+8. Manuel Hernandez (speedicion)
+9. Gerardo Mendez Resendiz (SirCaden)
+
