@@ -2,4 +2,5 @@
 
 1. Alfredo Altamirano (Ahuahuachi)
 2. Arisbeth Martínez (Arisbeth1409)
-3. Erick Vera (ErickVeraC)
+
+4. Erick Vera (ErickVeraC)
