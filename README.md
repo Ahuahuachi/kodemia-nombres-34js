@@ -2,3 +2,4 @@
 
 1. Alfredo Altamirano (Ahuahuachi)
 2. Arisbeth Martínez (Arisbeth1409)
+3. Jairo Bermejo (jairock88)
