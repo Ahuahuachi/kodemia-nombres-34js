@@ -1,8 +1,4 @@
 # kodemia-nombres-34js
 
-
-
-
-
-
-angel lopez (angellopez1214)
+1. Alfredo Altamirano (Ahuahuachi)
+5. Angel Lopez (angellopez1214)
