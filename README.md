@@ -6,4 +6,5 @@
 4. Daniel Mateos (danielmateos14)
 5. Adan Lugo (ElderL99)
 6. Laura Valle (adlau019)
-7. Erick Vera (ErickVeraC)
+7. Brenda Pedraza (Brenda1198)
+8. Erick Vera (ErickVeraC)
