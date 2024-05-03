@@ -1,6 +1,5 @@
 # kodemia-nombres-34js
 
-Valeria Elias
 
 
 
@@ -8,6 +7,7 @@ Valeria Elias
 
 
 
+8. Valeria Elias (ValeriaEliasP)
 
 
 
