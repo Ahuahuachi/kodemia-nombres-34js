@@ -2,4 +2,5 @@
 
 1. Alfredo Altamirano (Ahuahuachi)
 2. Arisbeth Martínez (Arisbeth1409)
-3. Manuel Hernandez (speedicion)
+3. Arturo Juarez (arturo25081998)
+2. Manuel Hernandez (speedicion)
