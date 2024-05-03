@@ -1,3 +1,3 @@
 # kodemia-nombres-34js
 
-# GerardoGarduño
+3.Gerardo Garduño Rosas
