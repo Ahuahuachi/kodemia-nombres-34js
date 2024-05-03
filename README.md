@@ -4,4 +4,5 @@
 2. Arisbeth Martínez (Arisbeth1409)
 3. Arturo Juarez (arturo25081998)
 4. Daniel Mateos (danielmateos14)
-5. Laura Valle (adlau019)
+5. Adan Lugo (ElderL99)
+6. Laura Valle (adlau019)
