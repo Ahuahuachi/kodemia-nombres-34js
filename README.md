@@ -1,3 +1,3 @@
 # kodemia-nombres-34js
-Daniela RuizDanielaruiz15
+Daniela Ruiz (Danielaruiz15)
 
