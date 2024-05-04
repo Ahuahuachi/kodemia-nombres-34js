@@ -21,5 +21,5 @@
 19. Pedro Corona (Rockcef)
 20. mariano diaz (Mariano-Diaz)
 21. Gerardo Mendez (SirCaden)
-22. Gerardo Garduño (AztroGerry1)
-
+22. Edwin Romero (Edwinrade22)
+23. Gerardo Garduño (AztroGerry1)
