@@ -7,4 +7,10 @@
 
 
 
-10.Gerardo Garduño Rosas
+
+
+
+
+
+
+Gerardo Garduño (AztroGerry1)
