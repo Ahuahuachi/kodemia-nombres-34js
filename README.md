@@ -10,4 +10,5 @@
 8. Manuel Hernandez (speedicion)
 9. Nestor Chaparro (F5Am4)
 10. Cesar Nuñez (XiCesar83)
-11. Gerardo Neri Reyes (NeriGR)
+11. Javier Galvez (javigalci2)11. 
+12. Gerardo Neri Reyes (NeriGR)
