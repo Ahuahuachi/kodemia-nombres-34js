@@ -18,4 +18,5 @@
 16. Alberto Rosas (Alrosas/Justino)
 17. Francisco Ortiz (FcoAd)
 18. Jarol Gabriel (jarolGabriel)
+19. Pedro Corona (Rockcef)
 19. Angel Lopez (angellopez1214)
