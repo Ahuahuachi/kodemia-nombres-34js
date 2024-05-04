@@ -15,3 +15,4 @@
 13. Erick Vera (ErickVeraC)
 14. Gerardo Neri Reyes (NeriGR)
 15. Monserrat Hernandez (morwen44)
+16. Arturo Juarez 2nd number (arturo25081998)
