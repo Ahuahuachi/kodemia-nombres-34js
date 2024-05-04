@@ -11,4 +11,10 @@
 9. Nestor Chaparro (F5Am4)
 10. Cesar Nuñez (XiCesar83)
 11. Javier Galvez (javigalci2)
-12. Jarol Gabriel (jarolGabriel)
+12. Jairo Bermejo (jairock88)
+13. Erick Vera (ErickVeraC)
+14. Gerardo Neri Reyes (NeriGR)
+15. Monserrat Hernandez (morwen44)
+16. Alberto Rosas (Alrosas/Justino)
+17. Jarol Gabriel (jarolGabriel)
+
