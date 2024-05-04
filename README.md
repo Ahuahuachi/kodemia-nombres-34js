@@ -15,3 +15,6 @@
 13. Erick Vera (ErickVeraC)
 14. Gerardo Neri Reyes (NeriGR)
 15. Monserrat Hernandez (morwen44)
+
+
+18. Rodrigo Tapia (Satanasroy)
