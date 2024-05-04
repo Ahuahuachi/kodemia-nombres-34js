@@ -20,4 +20,5 @@
 18. Jarol Gabriel (jarolGabriel)
 19. Pedro Corona (Rockcef)
 20. mariano diaz (Mariano-Diaz)
-21. Angel Lopez (angellopez1214)
+21. Gerardo Mendez (SirCaden)
+22. Angel Lopez (angellopez1214)
