@@ -8,4 +8,6 @@
 6. Laura Valle (adlau019)
 7. Brenda Pedraza (Brenda1198)
 8. Manuel Hernandez (speedicion)
-9. Jairo Bermejo (jairock88)
+9. Nestor Chaparro (F5Am4)
+10. Cesar Nuñez (XiCesar83)
+11. Jairo Bermejo (jairock88)
