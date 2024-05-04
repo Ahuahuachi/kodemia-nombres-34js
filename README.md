@@ -13,3 +13,5 @@
 11. Javier Galvez (javigalci2)
 12. Jairo Bermejo (jairock88)
 13. Erick Vera (ErickVeraC)
+
+15. Rodrigo Tapia (SAyanasroy)
