@@ -19,4 +19,5 @@
 16. Alberto Rosas (Alrosas/Justino)
 17. Francisco Ortiz (FcoAd)
 18. Jarol Gabriel (jarolGabriel)
-19. Santiago Arbesú (Santiagoarbesu)
+19. Pedro Corona (Rockcef)
+20. Santiago Arbesú (Santiagoarbesu)
