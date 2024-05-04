@@ -11,4 +11,5 @@
 9. Nestor Chaparro (F5Am4)
 10. Cesar Nuñez (XiCesar83)
 11. Javier Galvez (javigalci2)
-12. Erick Vera (ErickVeraC)
+12. Jairo Bermejo (jairock88)
+13. Erick Vera (ErickVeraC)
