@@ -2,15 +2,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Gerardo Garduño (AztroGerry1)
+# GerardoGarduño
