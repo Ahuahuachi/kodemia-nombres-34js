@@ -21,4 +21,5 @@
 19. Pedro Corona (Rockcef)
 20. mariano diaz (Mariano-Diaz)
 21. Gerardo Mendez (SirCaden)
-22. Angel Lopez (angellopez1214)
+22. Edwin Romero (Edwinrade22)
+23. Angel Lopez (angellopez1214)
