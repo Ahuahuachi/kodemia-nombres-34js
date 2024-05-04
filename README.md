@@ -16,4 +16,5 @@
 14. Gerardo Neri Reyes (NeriGR)
 15. Monserrat Hernandez (morwen44)
 16. Alberto Rosas (Alrosas/Justino)
-17. Pedro Corona (Rockcef)
+17. Francisco Ortiz (FcoAd)
+18. Pedro Corona (Rockcef)
