@@ -8,4 +8,5 @@
 6. Laura Valle (adlau019)
 7. Brenda Pedraza (Brenda1198)
 8. Manuel Hernandez (speedicion)
-9. Francisco Ortiz (FcoAd)
+9. Nestor Chaparro (F5Am4)
+10. Francisco Ortiz (FcoAd)
