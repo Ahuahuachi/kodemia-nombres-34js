@@ -16,4 +16,6 @@
 13. Erick Vera (ErickVeraC)
 14. Gerardo Neri Reyes (NeriGR)
 15. Monserrat Hernandez (morwen44)
-16. Santiago Arbesú (Santiagoarbesu)
+16. Alberto Rosas (Alrosas/Justino)
+17. Francisco Ortiz (FcoAd)
+18. Santiago Arbesú (Santiagoarbesu)
