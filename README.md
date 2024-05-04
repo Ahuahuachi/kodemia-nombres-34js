@@ -1,3 +1,4 @@
+
 # kodemia-nombres-34js
 
 1. Alfredo Altamirano (Ahuahuachi)
@@ -8,4 +9,10 @@
 6. Laura Valle (adlau019)
 7. Brenda Pedraza (Brenda1198)
 8. Manuel Hernandez (speedicion)
-9. Santiago Arbesú (Santiagoarbesu)
+9. Nestor Chaparro (F5Am4)
+10. Cesar Nuñez (XiCesar83)
+11. Javier Galvez (javigalci2)
+12. Jairo Bermejo (jairock88)
+13. Erick Vera (ErickVeraC)
+14. Gerardo Neri Reyes (NeriGR)
+15. Santiago Arbesú (Santiagoarbesu)
