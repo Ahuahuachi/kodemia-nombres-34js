@@ -12,4 +12,7 @@
 10. Cesar Nuñez (XiCesar83)
 11. Javier Galvez (javigalci2)
 12. Jairo Bermejo (jairock88)
-13. Pedro Corona (Rockcef)
+13. Erick Vera (ErickVeraC)
+14. Gerardo Neri Reyes (NeriGR)
+15. Monserrat Hernandez (morwen44)
+16. Pedro Corona (Rockcef)
