@@ -22,4 +22,8 @@
 20. mariano diaz (Mariano-Diaz)
 21. Gerardo Mendez (SirCaden)
 22. Edwin Romero (Edwinrade22)
+<<<<<HEAD<HEAD< HEADHEAD
 23. Gerardo Garduño (AztroGerry1)
+=======
+23. Santiago Arbesú (Santiagoarbesu)
+>>>>>>> main
