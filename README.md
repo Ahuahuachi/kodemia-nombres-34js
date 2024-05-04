@@ -17,4 +17,5 @@
 15. Monserrat Hernandez (morwen44)
 16. Alberto Rosas (Alrosas/Justino)
 17. Francisco Ortiz (FcoAd)
-18. mariano diaz (Mariano-Diaz)
+18. Jarol Gabriel (jarolGabriel)
+19. mariano diaz (Mariano-Diaz)
