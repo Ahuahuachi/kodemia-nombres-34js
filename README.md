@@ -19,4 +19,5 @@
 17. Francisco Ortiz (FcoAd)
 18. Jarol Gabriel (jarolGabriel)
 19. Pedro Corona (Rockcef)
-20. Edwin Romero (Edwinrade22)
+20. mariano diaz (Mariano-Diaz)
+21. Edwin Romero (Edwinrade22)
