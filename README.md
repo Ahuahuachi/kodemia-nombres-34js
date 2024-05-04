@@ -8,6 +8,7 @@
 6. Laura Valle (adlau019)
 7. Brenda Pedraza (Brenda1198)
 8. Manuel Hernandez (speedicion)
-
-
-11. 2. Jarol Gabriel (jarolGabriel)
+9. Nestor Chaparro (F5Am4)
+10. Cesar Nuñez (XiCesar83)
+11. Javier Galvez (javigalci2)
+12. Jarol Gabriel (jarolGabriel)
