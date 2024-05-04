@@ -12,4 +12,5 @@
 10. Cesar Nuñez (XiCesar83)
 11. Javier Galvez (javigalci2)
 12. Jairo Bermejo (jairock88)
-13. Monserrat Hernandez (morwen44)
+13. Erick Vera (ErickVeraC)
+14. Monserrat Hernandez (morwen44)
