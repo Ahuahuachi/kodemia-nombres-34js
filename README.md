@@ -9,4 +9,6 @@
 7. Brenda Pedraza (Brenda1198)
 8. Manuel Hernandez (speedicion)
 9. Nestor Chaparro (F5Am4)
-10. Francisco Ortiz (FcoAd)
+10. Cesar Nuñez (XiCesar83)
+11. Javier Galvez (javigalci2)
+12. Francisco Ortiz (FcoAd)
