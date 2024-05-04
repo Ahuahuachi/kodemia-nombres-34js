@@ -20,4 +20,5 @@
 17. Francisco Ortiz (FcoAd)
 18. Jarol Gabriel (jarolGabriel)
 19. Pedro Corona (Rockcef)
-20. Santiago Arbesú (Santiagoarbesu)
+20. mariano diaz (Mariano-Diaz)
+21. Santiago Arbesú (Santiagoarbesu)
