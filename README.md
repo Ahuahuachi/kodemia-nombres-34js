@@ -12,3 +12,5 @@
 10. Cesar Nuñez (XiCesar83)
 11. Javier Galvez (javigalci2)
 12. Jairo Bermejo (jairock88)
+
+13. Rodrigo Tapia (Satanasroy)
