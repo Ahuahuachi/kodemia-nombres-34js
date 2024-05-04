@@ -8,8 +8,4 @@
 6. Laura Valle (adlau019)
 7. Brenda Pedraza (Brenda1198)
 8. Manuel Hernandez (speedicion)
-<<<<<<< HEAD
 9. Alberto Rosas (Alrosas/Justino)
-=======
-10. Alberto Rosas (Alrosas/Justino)
->>>>>>> main
