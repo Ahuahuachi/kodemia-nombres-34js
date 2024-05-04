@@ -19,4 +19,5 @@
 17. Francisco Ortiz (FcoAd)
 18. Jarol Gabriel (jarolGabriel)
 19. Pedro Corona (Rockcef)
-19. Angel Lopez (angellopez1214)
+20. mariano diaz (Mariano-Diaz)
+21. Angel Lopez (angellopez1214)
